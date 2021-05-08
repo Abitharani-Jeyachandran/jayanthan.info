@@ -56,3 +56,94 @@
       </div>
     </section>
 <!---End Education Section----->
+<!-- ======= Clients Section ======= -->
+<section id="clients" class="clients">
+  <div class="container">
+          <div class="community-title text-center">
+            <h3>Community</h3>
+          </div>
+
+    <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://sunfoglobal.org/" target="_blank"><img src="../assets\img\clients\sunfo.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://www.rotary.org/en" target="_blank"><img src="../assets\img\clients\rotary.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="http://www.thecoastalnomads.com" target="_blank"><img src="../assets\img\clients\costal-nomads.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://www.instagram.com/slsubaqua/" target="_blank"><img src="../assets\img\clients\aqua-club.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://www.lionsclubs.org/en/discover-our-clubs/about-leos" target="_blank"><img src="../assets\img\clients\leo-club.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="http://www.stjohnsrilanka.lk/" target="_blank"><img src="../assets\img\clients\st-john.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://trashfortrade.com/pages/1-0-index.php" target="_blank"><img src="../assets\img\clients\trash-for-trade.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://www.redcross.lk/" target="_blank"><img src="../assets\img\clients\redcross_sri_lanka_logo.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://www.playforpeace.org/" target="_blank"><img src="../assets\img\clients\play-for-peace.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://scout.lk/" target="_blank"><img src="../assets\img\clients\scout.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://www.dofe.org/" target="_blank"><img src="../assets\img\clients\34019882_10156748043179415_3039374782865866752_n.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://www.bookbridge.org/" target="_blank"><img src="../assets\img\clients\book-bridge.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-4 col-sm-6 col-xs-6">
+        <div class="client-logo">
+          <a href="https://dreamspace.academy/pages/1-0-index.php" target="_blank"><img src="../assets\img\clients\dream-space.png" class="img-fluid" alt=""></a>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section><!-- End Clients Section -->

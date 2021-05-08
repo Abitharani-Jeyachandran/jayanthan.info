@@ -10,10 +10,10 @@
       <div class="col-lg-12 d-flex justify-content-center">
         <ul id="portfolio-flters">
           <li data-filter="*" class="filter-active">ALL</li>
-          <li data-filter=".filter-jmatrix" class="filter-active">J Matrix</li>
-          <li data-filter=".filter-t4t">Trash for Trade</li>
-          <li data-filter=".filter-arduino">MIni-Arduino Projects</li>
-          <li data-filter=".filter-sjwp">SJWP Project</li>
+          <li data-filter=".filter-mechanical" class="filter-active">Mechanical</li>
+          <li data-filter=".filter-electronics">Electronics</li>
+          <li data-filter=".filter-software">Software</li>
+          <li data-filter=".filter-initiative">Initiatives</li>
         </ul>
       </div>
     </div>
