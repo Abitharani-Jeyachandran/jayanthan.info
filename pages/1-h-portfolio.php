@@ -12,7 +12,7 @@
           <li data-filter="*" class="filter-active">ALL</li>
           <li data-filter=".filter-mechanical" class="filter-active">Mechanical</li>
           <li data-filter=".filter-electronics">Electronics</li>
-          <li data-filter=".filter-software">Software</li>
+          <li data-filter=".filter-training-and-facilitation">Training & Facilitation</li>
           <li data-filter=".filter-initiative">Initiatives</li>
         </ul>
       </div>
@@ -20,11 +20,10 @@
 
     <div class="row portfolio-container">
 
-      <div class="col-lg-3 col-md-6 portfolio-item filter-t4t">
-        <img src="../assets\img\portfolio\portfolio-2.jpg" class="img-fluid" alt="">
+      <div class="col-lg-3 col-md-6 portfolio-item filter-initiative">
+        <img src="../assets\img\partners-dreamspace\initiatives-jayanthan-sylc.jpg" class="img-fluid" alt="">
         <div class="portfolio-info">
-          <h4>App 1</h4>
-          <p>App</p>
+          <h4>Sagacious Youth Lead Consortium</h4>
           <a href="../assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
           <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
         </div>
